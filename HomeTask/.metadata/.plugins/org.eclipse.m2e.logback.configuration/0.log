@@ -1,0 +1,66 @@
+2020-02-17 20:59:18,300 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-02-17 21:06:45,280 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\HomeTask4\CleanCode\pom.xml
+2020-02-17 21:06:52,168 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HomeTask4:CleanCode:0.0.1-SNAPSHOT @ F:\HomeTask4\CleanCode\pom.xml.
+2020-02-17 21:06:57,367 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CleanCode/src/main/java
+2020-02-17 21:06:57,376 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CleanCode/src/test/java
+2020-02-17 21:06:59,524 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2020-02-17 21:07:02,793 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:07:02,793 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:07:02,799 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:07:02,799 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:08:36,024 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:08:36,025 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:08:36,033 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:08:36,034 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:08:39,049 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:08:39,049 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:08:39,054 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:08:39,054 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:09:17,386 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:09:17,387 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:09:17,392 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:09:17,392 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:09:51,827 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:09:51,827 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:09:51,833 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:09:51,834 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:10:23,447 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:10:23,448 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:10:23,453 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:10:23,453 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:10:57,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:10:57,632 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:10:57,640 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:10:57,641 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:11:23,982 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:11:23,982 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:11:23,990 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:11:23,990 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:13:54,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:13:54,597 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:13:54,603 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:13:54,603 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:15:06,534 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:06,534 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:15:06,540 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:06,541 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:15:27,636 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:27,637 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:15:27,643 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:27,644 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:15:54,447 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:54,448 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:15:54,458 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:15:54,458 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:16:18,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:16:18,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:16:18,041 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:16:18,042 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:19:06,471 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:19:06,472 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:19:06,477 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:19:06,477 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
+2020-02-17 21:25:31,073 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:25:31,074 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\main\resources
+2020-02-17 21:25:31,080 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 21:25:31,081 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\HomeTask4\CleanCode\src\test\resources
